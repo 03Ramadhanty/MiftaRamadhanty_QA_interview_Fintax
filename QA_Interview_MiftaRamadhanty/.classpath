@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Features"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-java-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-junit-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/gherkin-14.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cobertura-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-picocontainer-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-reporting-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/hamcrest-library-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/cucumber-testng-6.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/Cucumber/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ramadhanty/Desktop/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
